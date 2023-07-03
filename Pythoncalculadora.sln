@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythoncalculadora", "Pythoncalculadora\Pythoncalculadora.pyproj", "{EF061734-EF1F-4FCF-B0D0-7962F04E8F80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF061734-EF1F-4FCF-B0D0-7962F04E8F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF061734-EF1F-4FCF-B0D0-7962F04E8F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C745D4-E0C0-4080-A8EA-3FB2814CF982}
+	EndGlobalSection
+EndGlobal
